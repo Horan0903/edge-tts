@@ -99,7 +99,7 @@ def main():
     with st.sidebar:
         st.header("💡 关于项目")
         st.write("""
-            该项目由视觉AI功能小组基于Microsoft Edge TTS API进行开发。
+            该项目由视觉AI功能小组基于开源项目进行开发。
             你可以在应用中输入文本，选择声音并生成音频文件。
         """)
 
